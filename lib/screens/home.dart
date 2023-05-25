@@ -77,7 +77,7 @@ class _HomeState extends State<Home> {
                                           fontWeight: FontWeight.w300),
                                     ),
                                     Text(
-                                      "@yoncee",
+                                      "@ace",
                                       style: styleW18,
                                     )
                                   ],
@@ -144,7 +144,7 @@ class _HomeState extends State<Home> {
                                     width: 12,
                                   ),
                                   Text(
-                                    "@yoncee",
+                                    "@ace",
                                     style: styleW18,
                                   ),
                                   Spacer(),

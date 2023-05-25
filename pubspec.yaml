@@ -82,7 +82,7 @@ flutter:
         - asset: fonts/Pangram-Bold.otf
         - asset: fonts/Pangram-Black.otf
         - asset: fonts/Pangram-ExtraBold.otf
-        - asset: fonts/Pangram-Extralight.otf
+        - asset: fonts/Pangram-ExtraLight.otf
         - asset: fonts/Pangram-Light.otf
         - asset: fonts/Pangram-Medium.otf
         - asset: fonts/Pangram-Regular.otf
